@@ -1,0 +1,35 @@
+﻿  enemy.cpp
+c:\users\kuror\onedrive\documents\hew_swimming\hew_sample04\main.h(4): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  fade.cpp
+c:\users\kuror\onedrive\documents\hew_swimming\hew_sample04\main.h(4): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  game.cpp
+c:\users\kuror\onedrive\documents\hew_swimming\hew_sample04\main.h(4): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  input.cpp
+  main.cpp
+c:\users\kuror\onedrive\documents\hew_swimming\hew_sample04\main.h(4): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  myDirect3D.cpp
+c:\users\kuror\onedrive\documents\hew_swimming\hew_sample04\mydirect3d.h(6): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  number.cpp
+  player.cpp
+c:\users\kuror\onedrive\documents\hew_swimming\hew_sample04\main.h(4): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  result.cpp
+c:\users\kuror\onedrive\documents\hew_swimming\hew_sample04\scene.h(12): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'SCENE_INDEX' の左辺を無視します。
+c:\users\kuror\onedrive\documents\hew_swimming\hew_sample04\main.h(4): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  scene.cpp
+c:\users\kuror\onedrive\documents\hew_swimming\hew_sample04\scene.h(12): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'SCENE_INDEX' の左辺を無視します。
+  scene_playerselect.cpp
+c:\users\kuror\onedrive\documents\hew_swimming\hew_sample04\scene.h(12): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'SCENE_INDEX' の左辺を無視します。
+  scene_tutorial.cpp
+c:\users\kuror\onedrive\documents\hew_swimming\hew_sample04\scene.h(12): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'SCENE_INDEX' の左辺を無視します。
+  score_draw.cpp
+  sound.cpp
+  sprite.cpp
+c:\users\kuror\onedrive\documents\hew_swimming\hew_sample04\sprite.cpp(1): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  texture.cpp
+c:\users\kuror\onedrive\documents\hew_swimming\hew_sample04\texture.cpp(1): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  timer.cpp
+c:\users\kuror\onedrive\documents\hew_swimming\hew_sample04\main.h(4): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  title.cpp
+c:\users\kuror\onedrive\documents\hew_swimming\hew_sample04\scene.h(12): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'SCENE_INDEX' の左辺を無視します。
+c:\users\kuror\onedrive\documents\hew_swimming\hew_sample04\main.h(4): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  コードを生成中...
